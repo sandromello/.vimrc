@@ -2,7 +2,8 @@ set nocompatible
 " format
 set autoindent
 set backup
-set nu
+" Set line numbers
+"set nu
 set smartindent
 set showmatch
 set textwidth=80
