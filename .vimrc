@@ -1,12 +1,12 @@
 set nocompatible
 " format
 set autoindent
-set backup
 " Set line numbers
 "set nu
 set smartindent
 set showmatch
-set textwidth=80
+" Break lines
+"set textwidth=80
 set title
 set tabstop=4
 set shiftwidth=4
